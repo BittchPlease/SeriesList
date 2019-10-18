@@ -2,14 +2,6 @@
   "allmovie" : [
   {
     "count" : "ျပသ\nဆဲ",
-    "cover" : "https://1.bp.blogspot.com/-OJ2MXTYU_i4/XYpeuE1mMqI/AAAAAAAAB40/9GApokJBsa8u8hluRjqrlQHTyS5sivNDwCLcBGAsYHQ/s1600/71276500_693839157750908_3572977289178120192_n.jpg",
-    "dlink" : "https://raw.githubusercontent.com/BittchPlease/Aladin/master/",
-    "link" : "http://mmbollywoodcollection.blogspot.com/feeds/posts/default?alt=json",
-    "path" : "ALADIN",
-    "title" : "ေမွာ္မီးခြက္ရွင္ အာလာဒင္",
-    "vol" : "5 Plus ရုပ္သံလိုင္းတြင္ျပသေနေသာ ေမွာ္မီးခြက္ရွင္ အာလာဒင္ ဇာတ္လမ္းတြဲ ျဖစ္ပါသည္။ ေန့စဥ္အပိုင္းသစ္မ်ားကိုတင္ဆက္ သြားပါမည္။"
-  }, {
-    "count" : "ျပသ\nဆဲ",
     "cover" : "https://1.bp.blogspot.com/-OpN4M3O8P88/XVWjG6jxpvI/AAAAAAAABCE/AL0sH8wk50s0o4-ou2vKlrJXa7DE3jy4QCLcBGAs/s1600/68751327_668329486968542_397403372459655168_n.jpg",
     "dlink" : "https://raw.githubusercontent.com/BittchPlease/Mahar/master/",
     "link" : "https://msubhindi-1233am.firebaseio.com/hinditv/series/episodelist/MAHABHARAT/",
@@ -189,5 +181,27 @@ Credit; 5Plus Channel"
 Credit; Original Owner
        "
      }
+    ,
+    {
+    "count" : "ျပသ\nဆဲ",
+    "cover" : "https://1.bp.blogspot.com/-OJ2MXTYU_i4/XYpeuE1mMqI/AAAAAAAAB40/9GApokJBsa8u8hluRjqrlQHTyS5sivNDwCLcBGAsYHQ/s1600/71276500_693839157750908_3572977289178120192_n.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/Aladin/master/",
+    "link" : "http://mmbollywoodcollection.blogspot.com/feeds/posts/default?alt=json",
+    "path" : "ALADIN",
+    "title" : "ေမွာ္မီးခြက္ရွင္ အာလာဒင္",
+    "vol" : "ဒ႑ာရီဆန္တဲ့ေမွာ္မီးခြက္ပိုင္ရွင္ အာလာဒင္နဲ႕
+ရဲစြမ္းသတၱိနဲ႕ ျပည့္စုံတဲ့ မိန္းမပ်ိဳေလး၊
+
+မိမိအက်ိဳးတစ္ခုတည္းကိုသာ ၾကည့္တတ္ၿပီး
+ဘယ္သူေသေသ ငေတမာရင္ၿပီးေရာထုံးကို ႏွလုံးမူထားသူ
+ေကာက္က်စ္တဲ့ ဇာဖာ၊
+
+သခင့္အလိုက် မေကာင္းသူပယ္ ေကာင္းသူကယ္တတ္သူ
+ဒ႑ာရီလာ မီးခြက္ေစာင့္ဘီလူး ဂ်င္းနီ တို႔ပါဝင္တဲ့
+
+ေမွာ္မီးခြက္ရွင္ အာလာဒင္ ဇာတ္လမ္းတြဲဟာ ...  စိတ္လႈပ္ရွားဖြယ္ ေစာင့္ေမွ်ာ္ၾကည့္ရႈရမယ့္ ဇာတ္လမ္းပဲ ျဖစ္ပါတယ္။
+
+Credit:5 plus Channel"
+  }
   ]
 }
