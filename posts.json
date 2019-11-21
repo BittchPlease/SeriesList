@@ -156,6 +156,35 @@ Credit; Original Owner
 ++++ဆက္လတ္ၾကည့္ရွုလိုက္ၾကပါအံုး++++
 #VIU original Serie"
     }
+      ,
+    
+     {
+    "count" : "စ\nဆံုး",
+    "cover" : "https://www.iwmbuzz.com/wp-content/uploads/2017/06/gehraiyaan-inside.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/WaiDanarEain/master/",
+    "link" : "https://msubhindi-1233am.firebaseio.com/hinditv/series/episodelist/MAHABHARAT/",
+    "path" : "MAHABHARAT",
+    "title" : "ေဝဒနာအိမ္",
+    "vol" : "တစ္ႏွစ္ေလာက္ အဆက္ျပတ္ေနခဲ့ျပီးေနာက္မွာ 
+ ေရနာ-မာလစ္ခ္ တစ္ေယာက္ အလုပ္ခြင္ကုိ ျပန္၀င္လာခဲ့တယ္။
+ဒါေပမယ့္ သူ႔အတိတ္ရဲ႕အရိပ္ဆုိးေတြက 
+ေရနာ ကုိ ေနွာင့္ယွက္လာႀကတဲ့ အခါမွာေတာ့ ....။
+ျမန္မာစာတန္းထိုး
+       "
+     }
+     ,
+   {
+    "count" : "စ\nဆံုး",
+    "cover" : "https://1.bp.blogspot.com/-RVaFblmjDrI/XZmhDM2-5zI/AAAAAAAACNE/iTPh_oeoCQ4JSMHd2x-mH45Cgh6BoNn1gCLcBGAsYHQ/s800/cover.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/NaGin3/master/",
+    "link" : "http://mmbollywoodcollection.blogspot.com/feeds/posts/default?alt=json",
+    "path" : "THREEPRINCESS",
+    "title" : "ေျမြပ်ိဳမယ္ရဲ့ မာယာလွည့္ကြက္",
+    "vol" :  "ဘီလာတစ္ေယာက္ မဂၤလာပြဲကိုမေႏွာက္ယွက္ရေအာင္လို႔ ဆူမီၾတာဟာ လူေတြငွားၿပီး မဂၤပြဲမွာ ေစာင့္ၾကပ္ေစခဲ့ပါတယ္။
+     အဲဒီေန႔ဟာ မာေဟနဲ႔ဗစ္ရွ္တုိ႔ရဲ႕မဂၤလာပြဲေန႔ႀကီးပါ။
+     ဘီလာတစ္ေယာက္ မာေဟနဲ႔ေကြကြင္းရေတာ့မွာလား။"
+   
+   }
     ,
     {
     "count" : "ေန ့\nစဥ္",
@@ -272,22 +301,21 @@ Credit; 5Plus Channel"
 ဂ်န္ဗီကေတာ့ သူ႕ေနာက္ကုိ ေတာက္တဲ့လုိက္လာတာကုိ မသိ႐ွာပါဘူး။
       "
     }
-   ,
-    
-     {
+     ,
+   {
     "count" : "စ\nဆံုး",
-    "cover" : "https://www.iwmbuzz.com/wp-content/uploads/2017/06/gehraiyaan-inside.jpg",
-    "dlink" : "https://raw.githubusercontent.com/BittchPlease/WaiDanarEain/master/",
-    "link" : "https://msubhindi-1233am.firebaseio.com/hinditv/series/episodelist/MAHABHARAT/",
-    "path" : "MAHABHARAT",
-    "title" : "ေဝဒနာအိမ္",
-    "vol" : "တစ္ႏွစ္ေလာက္ အဆက္ျပတ္ေနခဲ့ျပီးေနာက္မွာ 
- ေရနာ-မာလစ္ခ္ တစ္ေယာက္ အလုပ္ခြင္ကုိ ျပန္၀င္လာခဲ့တယ္။
-ဒါေပမယ့္ သူ႔အတိတ္ရဲ႕အရိပ္ဆုိးေတြက 
-ေရနာ ကုိ ေနွာင့္ယွက္လာႀကတဲ့ အခါမွာေတာ့ ....။
-ျမန္မာစာတန္းထိုး
-       "
-     }
+    "cover" : "https://1.bp.blogspot.com/-FFZ6KQoXCLc/Xdbm0WNwT-I/AAAAAAAADLI/XEH2H33zcwEUvtJDexGgOFw2UEfOdsM5wCLcBGAsYHQ/s320/1566130273da084-original-1.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/Intezaar/master/",
+    "link" : "http://mmbollywoodcollection.blogspot.com/feeds/posts/default?alt=json",
+    "path" : "THREEPRINCESS",
+    "title" : "ေသြးနဲ့ေရးတဲ့က်ိန္စာ",
+    "vol" : "ေသြးနဲ့ေရးတဲ့က်ိန္စာ
+ျမန္မာစာတန္းထုိး
+အိႏၵိယရုပ္သံဇာတ္လမ္းတြဲ
+(စ-ဆံုး)
+"   
+   }
+
   
   ]
 }
